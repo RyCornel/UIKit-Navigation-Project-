@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+  
 class ResultsViewController: UIViewController {
 
     var userSelection : GameOption!
